@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://kovid-defense-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">46852454834</string>
+  <string name="google_storage_bucket" translatable="false">kovid-defense.appspot.com</string>
+  <string name="project_id" translatable="false">kovid-defense</string>
+  <string name="google_api_key" translatable="false">AIzaSyB-YHWybsoQsDpbFp4AB_J0MlfVBQdy1XU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-YHWybsoQsDpbFp4AB_J0MlfVBQdy1XU</string>
+  <string name="google_app_id" translatable="false">1:46852454834:android:86e7cc75c19a9523170cab</string>
+  <string name="default_web_client_id" translatable="false">46852454834-fa7a758reqgg4ugf3ekbmmfjj4oqc6fe.apps.googleusercontent.com</string>
+</resources>

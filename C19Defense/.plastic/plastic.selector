@@ -1,0 +1,4 @@
+repository "C19Defense@CovidTowerDefense@cloud"
+  path "/"
+    br "/main"
+    co "/main"

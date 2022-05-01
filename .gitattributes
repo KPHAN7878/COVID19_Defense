@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+C19Defense/Assets/Firebase/**/* filter=lfs diff=lfs merge=lfs -text
+#C19Defense/Library/PackageCache/**/* filter=lfs diff=lfs merge=lfs -text

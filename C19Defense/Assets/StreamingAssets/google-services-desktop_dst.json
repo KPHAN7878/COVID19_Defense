@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "46852454834",
+    "firebase_url": "https://kovid-defense-default-rtdb.firebaseio.com",
+    "project_id": "kovid-defense",
+    "storage_bucket": "kovid-defense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46852454834:android:86e7cc75c19a9523170cab",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.C19Defense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46852454834-fa7a758reqgg4ugf3ekbmmfjj4oqc6fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YHWybsoQsDpbFp4AB_J0MlfVBQdy1XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46852454834-fa7a758reqgg4ugf3ekbmmfjj4oqc6fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
